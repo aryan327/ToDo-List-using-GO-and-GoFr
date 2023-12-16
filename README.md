@@ -8,7 +8,7 @@ creating car management system using Golang
 
 
 
-<h1>About Golang</h1>
+<h2>About Golang</h2>
 
 
 
