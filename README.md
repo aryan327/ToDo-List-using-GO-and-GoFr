@@ -1,4 +1,4 @@
-###Car-Management-using-GO-and-GoFr
+<h1 align="center"> Car-Management-using-GO-and-GoFr </h1>
 
 
 
@@ -8,7 +8,7 @@ creating car management system using Golang
 
 
 
-##About Golang
+<h1>About Golang</h1>
 
 
 
