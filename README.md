@@ -53,6 +53,15 @@ GoFr is Opinionated Web Framework written in Go (Golang). It helps in building r
 <h1>Usage</h1>
 >To run this application, execute:
 go run main.go
+<hr>
+
+<h1>Pictures</h1>
+
+><img width="560" alt="Screenshot 2023-12-17 154931" src="https://github.com/aryan327/Restaurant-Management-using-GO-and-GoFr/assets/82660401/0307df3d-0023-48c3-9e47-a251a05a0e48">
+
+><img width="521" alt="Screenshot 2023-12-17 155006" src="https://github.com/aryan327/Restaurant-Management-using-GO-and-GoFr/assets/82660401/42c1e3ca-a123-4fd4-bdce-fa3a0c6d296d">
+
+
 
 
 
