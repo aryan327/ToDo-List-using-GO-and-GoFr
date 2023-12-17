@@ -37,10 +37,23 @@ GoFr is Opinionated Web Framework written in Go (Golang). It helps in building r
 <h1>Installation</h1>
 <hr>
 
+>Clone this repo
+>https://github.com/aryan327/Restaurant-Management-using-GO-and-GoFr.git
+<hr>
 
+>Change Directory
+>cd go-todo
+<hr>
 
+>Initiate .env file
+>cp .env.example .env
+>Modify .env file with your correct database credentials and desired Port
+<hr>
 
-*Clone this repo
+<h1>Usage</h1>
+>To run this application, execute:
+go run main.go
+
 
 
 
