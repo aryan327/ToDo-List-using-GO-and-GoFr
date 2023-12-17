@@ -21,9 +21,16 @@ Go, or Golang, is a programming language made by Google that's known for being s
 GoFr is Opinionated Web Framework written in Go (Golang). It helps in building robust and scalable applications. This framework is designed to offer a user-friendly and familiar abstraction for all the developers . We prioritise simplicity over complexity.
 
 <h1>Requirements</h1>
-<hr><hr>
-- MySQL installed
+<hr>
+*MySQL installed
+
+
+
+
 * Go installed
-+ import https://github.com/gofr-dev/gofr 
+
+
+
+* import https://github.com/gofr-dev/gofr 
 
 
