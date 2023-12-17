@@ -22,15 +22,25 @@ GoFr is Opinionated Web Framework written in Go (Golang). It helps in building r
 
 <h1>Requirements</h1>
 <hr>
+
+
 *MySQL installed
-
-
 
 
 * Go installed
 
 
-
 * import https://github.com/gofr-dev/gofr 
+
+
+
+<h1>Installation</h1>
+<hr>
+
+
+*Clone this repo
+
+
+
 
 
