@@ -3,7 +3,7 @@
 
 
 
-creating car management system using Golang
+creating todo list using Golang
 
 
 
