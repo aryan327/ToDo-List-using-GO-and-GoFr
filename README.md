@@ -57,9 +57,13 @@ go run main.go
 
 <h1>Pictures</h1>
 
-><img width="560" alt="Screenshot 2023-12-17 154931" src="https://github.com/aryan327/Restaurant-Management-using-GO-and-GoFr/assets/82660401/0307df3d-0023-48c3-9e47-a251a05a0e48">
+><img width="935" alt="Screenshot 2023-12-17 161606" src="https://github.com/aryan327/ToDo-List-using-GO-and-GoFr/assets/82660401/011aca33-8401-4093-9736-67966fa96156">
+
 
 ><img width="521" alt="Screenshot 2023-12-17 155006" src="https://github.com/aryan327/Restaurant-Management-using-GO-and-GoFr/assets/82660401/42c1e3ca-a123-4fd4-bdce-fa3a0c6d296d">
+
+
+><img width="436" alt="Screenshot 2023-12-17 161722" src="https://github.com/aryan327/ToDo-List-using-GO-and-GoFr/assets/82660401/ecae426d-7128-42d7-9172-c30fb009c793">
 
 
 
